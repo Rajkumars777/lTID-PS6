@@ -80,8 +80,8 @@ provided for demonstration (requires TensorFlow).
 
 ## 🌱 Streamlit Application
 
-The interactive dashboard is implemented in `agri_app_graphs.py`.  After
+The interactive dashboard is implemented in `agri_app.py`.  After
 training a model, launch the app with:
 
 ```bash
-streamlit run agri_app_graphs.py
+streamlit run agri_app.py
