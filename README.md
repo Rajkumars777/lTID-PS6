@@ -1,4 +1,4 @@
-Agriculture Yield Analysis & Prediction
+**Agriculture Yield Analysis & Prediction**
 
 This project provides a complete workflow to analyse an agricultural dataset,
 train machine‑learning models to predict crop yield, and offer an
